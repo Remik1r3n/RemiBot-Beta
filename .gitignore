@@ -5,5 +5,11 @@ __pycache__/
 .vscode/
 
 # Anti-leak
-getTicket.jar
-config.py
+Technology/*
+user_bind_data.db
+
+bin/
+include/
+lib/
+lib64/
+pyvenv.cfg
